@@ -277,6 +277,9 @@ ul li{
     
 }
 
+.experience-list{
+    margin-top: 10px;
+}
  .stack-list .item-remove {
     position: absolute;
     right: 2px;
